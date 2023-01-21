@@ -6,6 +6,6 @@
 1. Run Rewards_Search.bat <br>
 2. Wait until the command prompt disappears
 
-===Japanese===
+===日本語===
 1. Rewards_Search.bat を実行する <br>
 2. コマンドプロンプトが消えるまで待つ <br>
